@@ -115,20 +115,42 @@ content:
           팀 단위 포트폴리오 공유를 목적으로 진행했습니다.
 
 
+      - layout: top-middle
+        title: 축제 정보 홈페이지
+        # link: github.com/AlwaysAwake-ww/Blog
+        # link_text: Project Website
+        additional_links:
+          - title:  fesforus
+            icon: fab fa-github
+            url: github.com/AlwaysAwake-ww/fesforus
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          전국에서 진행되고 있는, 진행 될 예정인 축제 정보를 제공하는 홈페이지입니다.
+
+          전체 목록 탐색 및 검색, 즐겨찾기, 선호 카테고리별로 축제 정보를 조회할 수 있습니다.
 
 
 
-  - title: A Little More About Me
+  - title: Skill
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+    - C++, Java
+  
+    - Spring boot
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    - Jpa
+
+    - MyBatis
+
+    - HTML, CSS, Javascript, Bootstrap, Thymeleaf
+
+    - AWS EC2, AWS RDS
+    
+    - Oracle, MySql
 
 # Footer
 footer_show_references: true
