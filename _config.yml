@@ -7,36 +7,22 @@ version: 2
 
 # Personal info
 name: 박완우 Park Wanwoo
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+title: Beginner
+email: rainover0824@naver.com
+website: github.com/AlwaysAwake-ww
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+github_username:  AlwaysAwake-ww
+
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: Notion Page
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+  url: https://rainover.notion.site/c0254d9ab28a433898675c61c57dc60b
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -67,10 +53,17 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+            
+          안녕하세요.
+          백엔드 개발자를 꿈구는 박완우입니다.
+          C++, Java 등 객체지향 언어에 대한 이해도가 있습니다.
+          RDBMS, SQL에 대한 이해도가 있습니다.
+          게임 개발, 임베디드, Spring Boot 웹 개발 프로젝트 등 다양한 프로젝트 경험이 있습니다.
+          AWS RDS, EC2 클라우드 환경에서 배포 경험이 있습니다.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
