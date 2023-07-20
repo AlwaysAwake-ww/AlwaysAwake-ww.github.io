@@ -45,9 +45,29 @@ about_content: | # this will include new lines to allow paragraphs
           게임 개발, 임베디드, Spring Boot 웹 개발 프로젝트 등 다양한 프로젝트 경험이 있습니다.
           
           AWS RDS, EC2 클라우드 환경에서 배포 경험이 있습니다.
+
+          우측 상단 링크를 통해 Notion 페이지에서 교육, 프로젝트 내역 및 기타 사항 확인 가능합니다.
           
 
 content:
+
+  - title: Skill
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+     C++, Java
+  
+     Spring boot
+
+     Jpa
+
+     MyBatis
+
+     HTML, CSS, Javascript, Bootstrap, Thymeleaf
+
+     AWS EC2, AWS RDS
+    
+     Oracle, MySql
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -135,22 +155,7 @@ content:
 
 
 
-  - title: Skill
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-     C++, Java
-  
-     Spring boot
 
-     Jpa
-
-     MyBatis
-
-     HTML, CSS, Javascript, Bootstrap, Thymeleaf
-
-     AWS EC2, AWS RDS
-    
-     Oracle, MySql
 
 # Footer
 footer_show_references: true
