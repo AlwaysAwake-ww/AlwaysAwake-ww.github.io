@@ -78,6 +78,19 @@ content:
             C언어, 임베디드 프로그래밍, IoT 프로젝트
 
 
+      - layout: left
+        title: 웹 개발 교육과정
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: 한국정보기술연구원
+        caption: 2022.06 ~ 2022.12
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            HTML, CSS, Javascript, Java, Spring boot, Jpa, MyBatis, Spring Security, Oracle DB 등 웹 개발 전반 교육
+
+            축제 홈페이지 제작 프로젝트
+
 
 
   - title: Projects # Title for the section
