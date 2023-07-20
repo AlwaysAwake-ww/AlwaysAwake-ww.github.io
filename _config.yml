@@ -138,19 +138,19 @@ content:
   - title: Skill
     layout: text
     content: | # this will include new lines to allow paragraphs
-    - C++, Java
+     C++, Java
   
-    - Spring boot
+     Spring boot
 
-    - Jpa
+     Jpa
 
-    - MyBatis
+     MyBatis
 
-    - HTML, CSS, Javascript, Bootstrap, Thymeleaf
+     HTML, CSS, Javascript, Bootstrap, Thymeleaf
 
-    - AWS EC2, AWS RDS
+     AWS EC2, AWS RDS
     
-    - Oracle, MySql
+     Oracle, MySql
 
 # Footer
 footer_show_references: true
