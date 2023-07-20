@@ -34,9 +34,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+          안녕하세요.
+          백엔드 개발자를 꿈구는 박완우입니다.
+          C++, Java 등 객체지향 언어에 대한 이해도가 있습니다.
+          RDBMS, SQL에 대한 이해도가 있습니다.
+          게임 개발, 임베디드, Spring Boot 웹 개발 프로젝트 등 다양한 프로젝트 경험이 있습니다.
+          AWS RDS, EC2 클라우드 환경에서 배포 경험이 있습니다.
 
 content:
   - title: Projects # Title for the section
@@ -58,12 +61,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
             
-          안녕하세요.
-          백엔드 개발자를 꿈구는 박완우입니다.
-          C++, Java 등 객체지향 언어에 대한 이해도가 있습니다.
-          RDBMS, SQL에 대한 이해도가 있습니다.
-          게임 개발, 임베디드, Spring Boot 웹 개발 프로젝트 등 다양한 프로젝트 경험이 있습니다.
-          AWS RDS, EC2 클라우드 환경에서 배포 경험이 있습니다.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
